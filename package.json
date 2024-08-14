@@ -9,9 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^2.8.2",
+    "@emotion/react": "^11.13.0",
+    "@emotion/styled": "^11.13.0",
+    "framer-motion": "^11.3.24",
+    "i": "^0.3.7",
+    "next": "14.2.5",
+    "pg": "^8.12.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.5"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "postcss": "^8",
